@@ -1,2 +1,2 @@
-# odin-recipes
-The Odin Project - Recipes
+# The Odin Project - Recipes
+Practice project for TOP.
