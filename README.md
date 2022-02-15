@@ -1,2 +1,2 @@
 # The Odin Project - Recipes
-Practice project for TOP.
+This project is the part of The Odin Project's curriculum.
